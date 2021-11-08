@@ -14,6 +14,8 @@ docker run --cpus 1 --memory 1g -p 1521:1521 --name oracle-db store/oracle/datab
 9. Wait until DB started
 10. DB is running!
 
+**Warning:** If you remove the Docker container your DB content is gone. You can prevent this by mapping a volume. Or you just don't remove the container :)
+
 ## Default credentials:
 ```
 Hostname: localhost
