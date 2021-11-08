@@ -24,3 +24,6 @@ SID: ORCLCDB
 User: sys as sysdba
 Password: Oradoc_db1
 ```
+
+## Connect
+You can connect using [SQL Developer](https://www.oracle.com/database/technologies/appdev/sqldeveloper-landing.html) or [DataGrip](https://www.jetbrains.com/datagrip/).
